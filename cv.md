@@ -27,8 +27,8 @@ I am interested in web development because this profession provides endless oppo
 * Jira
 
 ### Courses:
-* WEB-developer, Udemy (completed)
-* JavaScript/Front-end. Stage 0, RS Schools Course (in progress)
+* WEB-developer. Udemy (completed)
+* JavaScript/Front-end. Stage 1. RS Schools Course (in progress)
 
 ### Languages:
 * Ukrainian - Native
